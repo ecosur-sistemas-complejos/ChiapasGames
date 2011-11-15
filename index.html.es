@@ -105,6 +105,9 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                     También organizamos una instancia para hacer <a href="http://chiapasgames.org:9999">JENKINS</a> construye fuera de la línea principal, 
                     rama "master". Por favor, ven en busca de artefactos binarios.
                 </p>
+                <p>
+                    Esta traducción es un trabajo en progreso.
+                </p>
             <div id="footer" class="mesmis">
                 <a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS" /></a>
             </div>
