@@ -96,7 +96,7 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                 <div class="separator"></div>
                 <h3>JUEGOS</h3>
                 <p>
-                    Actualmente, ofrecemos dos juegos, GENTE (PEOPLE) y Sierra Springs (Manantiales), con nuestra plataforma de motor basado en reglas.
+                    Actualmente, ofrecemos dos juegos, <a href="http://chiapasgames.org:8080/multi-game">GENTE (PEOPLE) y Manantiales de la Sierra (Sierra Springs)</a>, con nuestra plataforma de motor basado en reglas.
                 </p>
                 <div class="seperator"></div>
                 <h3>Servicios</h3>
