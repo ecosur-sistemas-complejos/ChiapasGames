@@ -37,76 +37,77 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                 </div>
             </div>
             <div id="content">
-                <h2>Bienvenida</h2>
+                <h2>Bienvenidos</h2>
                 <p>
-                    Este es el servidor de red para el proyecto de modelado asistido por ordenador de participación en El Colegio de la Frontera Sur (ECOSUR)
-                    en San Cristóbal de Las Casas, financiado por CONACYT. Somos participantes activos en el
-                    <a href="http://mesmis.gira.org.mx/en/static/about_us">proyecto MESMIS</a>, que se encuentra en Morelia y la esperanza de que las ideas,
-                    valores y procesos de ese proyecto se llevará a cabo también en cuenta al pensar en nuestras contribuciones aquí.                
+                    Este es el servidor de red para el proyecto de “computer assisted participatory modeling” de El Colegio de la Frontera Sur (ECOSUR)
+                     unidad San Cristóbal de las Casas (SCLC), Chiapas. Somos participantes activos en el 
+                    <a href="http://mesmis.gira.org.mx/en/static/about_us">proyecto MESMIS</a> (Marco para la Evaluación de Sistemas de Manejo de Recursos 
+                    Naturales Incorporando Indicadores de Sustentabilidad) y esperamos que las ideas, valores y procesos que este proyecto llevará a cabo tomen 
+                    en cuenta nuestras contribuciones aquí.
                 </p>
                 <div class="separator"></div>
-                <h2>Fondo</h2>
-                <p> En este servidor, hemos colocado los juegos de ordenador desarrollados a través de nuestra investigación en curso en la cuenca del Tablón en la
-                    Reserva La Sepultura de la Sierra Madre de Chiapas, un sitio Patrimonio de la Humanidad.Nuestros juegos de ordenador actuales implementar juegos 
-                    de mesa participativa creada por los investigadores y las partes interesadas en ese lugar. 
-                    Estos juegos han sido adaptados y / o ampliado para jugar en línea. Nuestra investigación y desarrollo de los juegos de rol y los modelos 
-                    participativos seguir el proceso              
+                <h2>ANTECEDENTES</h2>
+                <p> En este servidor hemos colocado juegos para computadora. Estos juegos fueron desarrollados gracias nuestra investigación  aún en curso en la 
+                    cuenca del río El Tablón en la Reserva de la Biósfera La Sepultura (REBISE). La REBISE se localiza en la Sierra Madre de Chiapas y es 
+                    considerada como Patrimonio de la Humanidad por la UNESCO. Con nuestros juegos para computadora actuales se implementaron juegos de mesa 
+                    participativos. Estos fueron creados por investigadores y personas interesadas en el lugar de trabajo. Posteriormente fueron adaptados y/o 
+                    extendidos para poder jugarlos en línea. Nuestra investigación, el desarrollo de juegos de roles y modelación participativa se basan 
+                    principalmente en el proceso de 
                     <a href="http://www.ecole-commod.sc.chula.ac.th/www2/index.php?option=com_content&amp;task=view&amp;id=40&amp;Itemid=81">
-                    COMMOD</a> con nuestros resultados se basan principalmente en los aspectos de juego de los modelos de participación, sino tambié
-                    haciendo uso de modelos multi-agente para la experimentación y intelligence.We artificial son miembros de la COMMOD la red y los aspectos 
-                    de sostenibilidad de nuestro trabajo están integrados en el programa MESMIS interinstitucional.                
+                    COMMOD</a>. Nuestros resultados se fundamentan en los aspectos del juego sobre modelación participativa pero también hacen uso de modelación 
+                    con agentes múltiples para la experimentación y la inteligencia artificial (IA). Somos miembros de la red de COMMOD y los aspectos de 
+                    sustentabilidad de nuestro proyecto están integrados en el programa inter-institucional del MESMIS.
                 </p>
-  		<p>
-		   También hemos colocado nuestros documentos relevantes para el proyecto, en este servidor. Nuestros archivos PDF están disponibles para su consulta 
-           en <a href='/papers'>chiapasgames.org/papers</a>.
-		</p>
-                <h3>TEAM</h3>
+                <p>
+                    En este servidor también hemos incluido las publicaciones más importantes del proyecto. Las versiones en PDF están disponibles en: 
+                    <a href='/papers'>chiapasgames.org/papers</a>.
+                </p>
+                <h3>EQUIPO</h3>
                 <ul>
                     <li><a href="http://bdi.ecosur.mx/personal/informaciongeneral.aspx?ID=GarciaLuis">Dr. Luis Garcia Barrios</a>,
-                        líder del equipo, investigador y diseñador de juegos, Investigador Senior en ECOSUR, San Cristóbal de Las Casas (SCLC) y miembro del 
-                        equipo fundador de MESMIS. ¿La investigación multidisciplinaria en una serie de campos, la interconexión de sistemas complejos 
-                        socio-ambiental, los modelos basados en agentes, los juegos de rol, la agroecología, la biodiversidad agrícola y el desarrollo rural.
+                        Es el líder del equipo, investigador y diseñador del juego. Investigador en ECOSUR (SCLC) y miembro fundador del MESMIS. Lleva a cabo 
+                        investigación multidisciplinaria en un amplio número de áreas que integran los Sistemas complejos socio ambientales,juegos de rol 
+                        participativos, agroecología, agro biodiversidad y desarrollo rural.
+
                     </li>
                     <li>
                         <a href="http://www.google.com/profiles/andrew.waterman">Andrew Waterman</a>,
-                        MA, diseñador de juegos, arquitecto y desarrollador de software, Asistente de Investigación Técnica en el departamento de Agroecología 
-                        de ECOSUR SCLC.
+                        MA.  Participó en el diseño del juego y en desarrollo de la arquitectura y el software. Es asistente técnico de Investigación en el 
+                        departamento de Agroecología en ECOSUR (SCLC).
                     </li>
                     <li>
-                        <a href="mailto:max@alwayssunny.com">Max Pimm</a>, B.Sc., diseñador de juegos y desarrolladores de software, colaborador MESMIS temprana 
-                        y programador freelance en Barcelona.
-                    </li>
+                        <a href="mailto:max@alwayssunny.com">Max Pimm</a>, B.Sc.  Participó en el diseño del juego y el desarrollo del software. Forma parte 
+                        de los primeros colaboradores del MESMIS y es programador independiente en Barcelona.
+                     </li>
                     <li>
                         <a href="http://132.248.35.1:8080/druinv/iaca.jsp?k=060001111B22261E1D201E1B0F1624">Dr. Raul Garcia Barrios,</a> 
-                         investigador y diseñador de juegos, economista en el Centro de Investigaciones Multidisciplinarias una Universidad Nacional Autónoma de 
-                         México (CRIM-UNAM).
+                          Investigador. Participó en el diseño del juego. Es economista en el Centro de Investigaciones Multidisciplinarias de la Universidad 
+                          Autónoma de México (CRIM-UNAM).
                     </li>
                     <li>
-                        <a href="mailto:castriesmcb@gmail.com">Dr. Claudia Brunel</a>,socio-economista y diseñador de juegos, un post-doctorado en ECOSUR, 
-                        SCLC (2008-2010).                    
+                        <a href="mailto:castriesmcb@gmail.com">Dr. Claudia Brunel</a>. Participó en el diseño del juego. Es Socio economista y compañera del 
+                        Post doctorado en ECOSUR (SCLC). (2008-2010).                    
                     </li>
                     <li>
-                        <a href="mailto:juana.cruz.morales@gmail.com">Juana Cruz</a>, M.S., profesor investigador de la Universidad Autónoma Chapingo.Profesor de
-                         "Planeación y Evaluacion del Desarrollo Rural", un curso de nivel de maestría en desarrollo rural y regional. Temas de Juana de 
-                         investigación se centran en el trabajo que fortalece las capacidades locales para la gestión de los recursos naturales en áreas 
-                         protegidas.
+                        <a href="mailto:juana.cruz.morales@gmail.com">Juana Cruz</a>, M.S.. Profesora investigadora en la Universidad Autónoma de Chapingo. 
+                        Profesora de “Planeación y evaluación del desarrollo rural” dentro del curso de maestría en desarrollo Rural y Regional. Los temas en 
+                        sus investigaciones se centran en el trabajo para fortalecer las capacidades locales para la gestión y manejo de recursos dentro de 
+                        áreas naturales protegidas.                        
                     </li>
                 </ul>
 
                 <div class="separator"></div>
                 <h3>JUEGOS</h3>
                 <p>
-                    Actualmente, ofrecemos dos juegos, <a href="http://chiapasgames.org:8080/multi-game">GENTE (PEOPLE) y Manantiales de la Sierra (Sierra Springs)</a>, con nuestra plataforma de motor basado en reglas.
+                    Actualmente, ofrecemos dos juegos, <a href="http://chiapasgames.org:8080/multi-game">GENTE (PEOPLE) y Manantiales de la Sierra (Sierra Springs)</a>, 
+                    en nuestra plataforma.
                 </p>
                 <div class="seperator"></div>
                 <h3>Servicios</h3>
                 <p>
-                    Presentamos un ejemplo <a href="http://chiapasgames.org:8888">JIRA</a> de seguimiento de bugs y funciones de programación y mejoras.
-                    También organizamos una instancia para hacer <a href="http://chiapasgames.org:9999">JENKINS</a> construye fuera de la línea principal, 
-                    rama "master". Por favor, ven en busca de artefactos binarios.
-                </p>
-                <p>
-                    Esta traducción es un trabajo en progreso.
+                    Ofrecemos una instancia <a href="http://chiapasgames.org:8888">JIRA</a> para el seguimiento de errores, funciones de programación y mejoras. 
+                    También una instancia <a href="http://chiapasgames.org:9999">JENKINS</a> para hacer construcciones basado en la línea principal, o  rama "maestra". 
+                    Por favor, ver estos en artefactos binarios.                
                 </p>
             <div id="footer" class="mesmis">
                 <a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS" /></a>
