@@ -39,7 +39,7 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
             <div id="content">
                 <h2>Bienvenidos</h2>
                 <p>
-                    Este es el servidor de red para el proyecto de “computer assisted participatory modeling” de El Colegio de la Frontera Sur (ECOSUR)
+                    Este es el servidor de red para el proyecto de "computer assisted participatory modeling" de El Colegio de la Frontera Sur (ECOSUR)
                      unidad San Cristóbal de las Casas (SCLC), Chiapas. Somos participantes activos en el 
                     <a href="http://mesmis.gira.org.mx/en/static/about_us">proyecto MESMIS</a> (Marco para la Evaluación de Sistemas de Manejo de Recursos 
                     Naturales Incorporando Indicadores de Sustentabilidad) y esperamos que las ideas, valores y procesos que este proyecto llevará a cabo tomen 
@@ -64,9 +64,9 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                 </p>
                 <h3>EQUIPO</h3>
                 <ul>
-                    <li><a href="http://bdi.ecosur.mx/personal/informaciongeneral.aspx?ID=GarciaLuis">Dr. Luis Garcia Barrios</a>,
+                    <li><a href="http://bdi.ecosur.mx/personal/informaciongeneral.aspx?ID=GarciaLuis">Dr. Luis Garcia Barrios</a>.
                         Es el líder del equipo, investigador y diseñador del juego. Investigador en ECOSUR (SCLC) y miembro fundador del MESMIS. Lleva a cabo 
-                        investigación multidisciplinaria en un amplio número de áreas que integran los Sistemas complejos socio ambientales,juegos de rol 
+                        investigación multidisciplinaria en un amplio número de áreas que integran los Sistemas complejos socio ambientales, juegos de rol 
                         participativos, agroecología, agro biodiversidad y desarrollo rural.
 
                     </li>
