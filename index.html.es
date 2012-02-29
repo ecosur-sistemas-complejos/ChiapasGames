@@ -5,16 +5,18 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
         <title>Chiapasgames.org</title>
         <link href="img/favicon.ico" type="image/x-icon" rel="icon" />
         <link rel="stylesheet" type="text/css" href="css/globals.css" />
-	<script type="text/javascript">
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-12907657-4']);
-	  _gaq.push(['_trackPageview']);
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-12907657-4']);
+		  _gaq.push(['_setDomainName', 'chiapasgames.net']);
+		  _gaq.push(['_setAllowLinker', true]);
+		  _gaq.push(['_trackPageview']);
 
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
 	</script>
     </head>
     <body>
@@ -109,8 +111,20 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                     También una instancia <a href="http://chiapasgames.org:9999">JENKINS</a> para hacer construcciones basado en la línea principal, o  rama "maestra". 
                     Por favor, ver estos en artefactos binarios.                
                 </p>
-            <div id="footer" class="mesmis">
-                <a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS" /></a>
+                <!-- Place this tag where you want the +1 button to render -->
+				<g:plusone annotation="inline"></g:plusone>
+
+				<!-- Place this render call where appropriate -->
+				<script type="text/javascript">
+			    	(function() {
+				    	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					    po.src = 'https://apis.google.com/js/plusone.js';
+					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+					  })();
+				</script>                                                
+				<br/>
+            	<div id="footer" class="mesmis">
+                	<a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS" /></a>
             </div>
         </div>
     </body>
