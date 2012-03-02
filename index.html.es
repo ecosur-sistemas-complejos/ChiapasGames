@@ -17,6 +17,13 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
 		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		  })();
+
+
+		 (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                  })();
 	</script>
     </head>
     <body>
@@ -111,21 +118,11 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                     También una instancia <a href="http://chiapasgames.org:9999">JENKINS</a> para hacer construcciones basado en la línea principal, o  rama "maestra". 
                     Por favor, ver estos en artefactos binarios.                
                 </p>
-                <!-- Place this tag where you want the +1 button to render -->
-				<g:plusone annotation="inline"></g:plusone>
-
-				<!-- Place this render call where appropriate -->
-				<script type="text/javascript">
-			    	(function() {
-				    	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-					    po.src = 'https://apis.google.com/js/plusone.js';
-					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-					  })();
-				</script>                                                
-				<br/>
             	<div id="footer" class="mesmis">
                 	<a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS" /></a>
             </div>
+            <br/>
+            <g:plusone annotation="inline"></g:plusone>
         </div>
     </body>
 </html>
