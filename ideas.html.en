@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Chiapasgames.org</title>
+        <link href="img/favicon.ico" type="image/x-icon" rel="icon" />
+        <link rel="stylesheet" type="text/css" href="css/globals.css" />
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-12907657-4']);
+		  _gaq.push(['_setDomainName', 'chiapasgames.net']);
+		  _gaq.push(['_setAllowLinker', true]);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+    </head>
+    <body>
+        <div id="main">
+            <div id="header">
+                <div>
+                    <a href="http://www.ecosur.mx">
+                    <img src="img/logo.jpg" width="194" height="96"
+                         alt="ECOSUR"/>
+                    </a>
+                </div>
+                <div>
+                    <img src="img/header.png" alt="Chiapasgames" />
+                </div>
+                <div>
+                    <a href="http://www.conacyt.mx" target="blank">
+                        <img src="img/conacyt.jpg" width="65" height="96"
+                             alt="CONACYT" />
+                    </a>
+                </div>
+            </div>
+            <div id="content">
+            <h2>Welcome Google Summer of Code Students!</h2>
+            <p>
+				This page contains a list of ideas for contributions to our open source 
+				project, "MultiGame" as part of our Google summer of code application. 
+				All ideas should be developed under the Academic Freedom License (3.0) 
+				and successful implementations should be submitted to our <a href='http://www.github.com/ecosur-sistemas-complejos'>main project page</a>
+				on Github as "pull requests" coming from each participant's successful fork.
+			</p> 
+			<p>
+				For more detail on collaborative development at GitHub, please see their 
+				dedicated help section: <a href='http://help.github.com/send-pull-requests/'>GitHub Collaborative Development Model.</a>
+			</p>		
+        	<div class="separator"></div>
+            
+            <h2>Development Ideas</h2>
+            
+            <ul>
+            	<li>Objective C iOS 5.1 client for Manantiales de La Sierra</li>
+            	<li>Complete conversion of Flex code from Halo to Spark</li>            
+            	<li>Expand code coverage in Engine module to 80%</li>
+            	<li>Expand code coverage in Games module to 80%</li>    
+            	<li>Implement suggestions to Engine module from our <a href='http://chiapasgames.org:9000/dashboard/index/4'>Sonar server</a></li>
+            	<li>Implement suggestions to Games module from our <a href='http://chiapasgames.org:9000/dashboard/index/100'>Sonar server</a></li>
+            </ul>
+  		
+	        <div id="footer" class="mesmis">
+    	            <a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS"/></a>
+            	</div>
+		<br/>
+		<g:plusone annotation="inline"></g:plusone>
+        </div>
+    </body>
+</html>
