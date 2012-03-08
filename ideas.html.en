@@ -50,7 +50,7 @@
 				project, "MultiGame" as part of our Google summer of code application. 
 				All ideas should be developed under the Academic Free License (3.0) 
 				and successful implementations should be submitted to our <a href='http://www.github.com/ecosur-sistemas-complejos'>main project page</a>
-				on Github as pull requests, per the official "Fork and Pull Model."
+				on Github as pull requests, taken from our development branch, per the official "Fork and Pull Model.":
 			</p> 
 			<p>
 				For more detail on collaborative development at GitHub, please see their 
@@ -65,8 +65,8 @@
             	<li>Complete conversion of Flex code from Halo to Spark</li>            
             	<li>Expand code coverage in Engine module to 80%</li>
             	<li>Expand code coverage in Games module to 80%</li>    
-            	<li>Implement suggestions to Engine module from our <a href='http://chiapasgames.org:9000/dashboard/index/4'>Sonar server</a></li>
-            	<li>Implement suggestions to Games module from our <a href='http://chiapasgames.org:9000/dashboard/index/100'>Sonar server</a></li>
+            	<li>Implement suggestions to Engine module from our <a href='http://chiapasgames.org:9000/drilldown/violations/mx.ecosur:engine-module'>Sonar server</a></li>
+            	<li>Implement suggestions to Games module from our <a href='http://chiapasgames.org:9000/drilldown/violations/mx.ecosur:games-module'>Sonar server</a></li>
             </ul>
   		
 	        <div id="footer" class="mesmis">
