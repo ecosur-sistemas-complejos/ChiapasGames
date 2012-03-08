@@ -48,9 +48,9 @@
             <p>
 				This page contains a list of ideas for contributions to our open source 
 				project, "MultiGame" as part of our Google summer of code application. 
-				All ideas should be developed under the Academic Freedom License (3.0) 
+				All ideas should be developed under the Academic Free License (3.0) 
 				and successful implementations should be submitted to our <a href='http://www.github.com/ecosur-sistemas-complejos'>main project page</a>
-				on Github as "pull requests" coming from each participant's successful fork.
+				on Github as pull requests, per the official "Fork and Pull Model."
 			</p> 
 			<p>
 				For more detail on collaborative development at GitHub, please see their 
