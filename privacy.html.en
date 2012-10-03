@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Chiapas Games - Privacy Policy</title>
+        <link href="img/favicon.ico" type="image/x-icon" rel="icon" />
+        <link rel="stylesheet" type="text/css" href="css/globals.css" />
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-12907657-4']);
+		  _gaq.push(['_setDomainName', 'chiapasgames.net']);
+		  _gaq.push(['_setAllowLinker', true]);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+    </head>
+    <body>
+        <div id="main">
+            <div id="header">
+                <div>
+                    <a href="http://www.ecosur.mx">
+                    <img src="img/logo.jpg" width="194" height="96"
+                         alt="ECOSUR"/>
+                    </a>
+                </div>
+                <div>
+                    <img src="img/header.png" alt="Chiapasgames" />
+                </div>
+                <div>
+                    <a href="http://www.conacyt.mx" target="blank">
+                        <img src="img/conacyt.jpg" width="65" height="96"
+                             alt="CONACYT" />
+                    </a>
+                </div>
+            </div>
+            <div id="content">
+                <h1 class="centered">Privacy Policy</h1>
+                <div>
+                    <div>
+                        <h2>Effective Date</h2>
+                        <p>
+                            The effective date for this policy is October 3, 2012.
+                        </p>
+                    </div>
+                    <div class="separator"></div>
+                    <div>
+                        <h2 id="personal-info">Personal info</h2>
+                        <p>
+                            We collect no directly identifiable personal information from players of our games. User
+                            logins are only used to associate a specific player with a specific game and to show users
+                            what games in which they are currently active. These logins have no explicit link to a
+                            user's email or any other indicator.
+                        </p>
+                    </div>
+                    <div class="separator"></div>
+                    <div>
+                        <h2 id="collection">How we collect info</h2>
+                        <h3 id="collection_tracking">Tracking technologies</h3>
+                        <h4>Do we use cookies?</h4>
+                        <p>
+                            Yes. (Cookies are small files that a site or its service provider transfers to your computers
+                            hard drive through your Web browser (if you allow) that enables the sites or service providers
+                            systems to recognize your browser and capture and remember certain information.
+                        </p>
+                        <h4>What else do we use?</h4>
+                        <p>
+                            We collect information from our players by means Adobe's Blaze Data Services (BlazeDS) and
+                            its interactions with our Flash Client.
+                        </p>
+                    </div>
+                    <div class="separator"></div>
+                    <div>
+                        <h2 id="use">How we use your info</h2>
+                        <p>
+                            Cookies are used by JBoss's JAAS authentication system to determine if a player has
+                            authenticated properly. The information collected through interactions among our Flash
+                            Client, BlazeDS and our JEE application in order to understand strategic user game play in
+                            our research.
+                        </p>
+                    </div>
+                    <div class="separator"></div>
+                    <div>
+                        <h2 id="disclosure">When we share your info</h2>
+                        <p>
+                            We do not sell, trade, or otherwise transfer to outside parties your personally identifiable
+                            information. This does not include trusted third parties who assist us in operating our
+                            website, conducting our business, or servicing you, so long as those parties agree to keep
+                            this information confidential. We may also release your information when we believe release
+                            is appropriate to comply with the law, enforce our site policies, or protect ours or others
+                            rights, property, or safety.
+                        </p>
+                        <h3>California Online Privacy Protection Act Compliance</h3>
+                        <p>
+                            Because we value your privacy we have taken the necessary precautions to be in compliance
+                            with the California Online Privacy Protection Act. We therefore will not distribute your
+                            personal information to outside parties without your consent.
+                        </p>
+                        <h3>United States Children's Online Privacy Protection Act Compliance</h3>
+                        <p>
+                            We are in compliance with the requirements of the United States COPPA (Childrens Online
+                            Privacy Protection Act), we do not collect any information from anyone under 13 years of
+                            age. Our website, products and services are all directed to people who are at least 13
+                            years old or older.
+                        </p>
+                    </div>
+                    <div class="separator"></div>
+                    <div>
+                        <h2 id="storage">How we store your info</h2>
+                        <h3 id="storage_location">Where your info lives</h3>
+                        <p>
+                            Your information lives inside of a MySQL database secured against outside connectivity.
+                        </p>
+                        <h3 id="storage_duration">How long we keep your info</h3>
+                        <p>
+                            We keep all information recorded in our database for an indefinite period of time,
+                            determined solely by its utility to our ongoing research.
+                        </p>
+                    </div>
+                    <div class="separator"></div>
+                    <div>
+                        <h2 id="misc">About</h2>
+                        <h3 id="misc_choice">Your choices</h3>
+                        <p>
+                            You are free to not login and play our games if you feel playing our games should remain
+                            a private experience.
+                        </p>
+                        <h3 id="misc_changes">Changes</h3>
+                        <p>
+                            This privacy policy is subject to update, with any such changes being published here.
+                        </p>
+                        <h3 id="misc_contact">Contact us</h3>
+
+                        <p>
+                            In the event you have privacy policy related questions or concerns, please contact us by
+                            email or letter at the following:
+                            <br/>
+<pre>
+    Email:   admin@chiapasgames.org
+    Attn:    Luis Gracia Barrios
+    Address: El Colegio de La Frontera Sur
+             Carretera Tuxtla Gutiérrez-Ciudad Cuauhtémoc
+             San Cristóbal de las Casas, Chiapas
+             Mexico
+</pre>
+                    </div>
+            </div>
+        </div>
+        <div id="footer" class="mesmis">
+            <a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS"/></a>
+        </div>
+    </body>
+</html>

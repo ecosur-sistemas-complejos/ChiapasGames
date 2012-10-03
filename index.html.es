@@ -55,7 +55,26 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                     en cuenta nuestras contribuciones aquí.
                 </p>
                 <div class="separator"></div>
-                <h2>ANTECEDENTES</h2>
+                <h2>Privacy</h2>
+                <p>
+                    Por infórmacion correspondiente a su privacidad personal, por favor ver nuestra pagína de privacidad.
+                    <a href="privacy.html.en">Privacy Policy</a>.
+                </p>
+                <div class="separator"></div>
+                <h2>Juegos</h2>
+                <p>
+                    Actualmente, ofrecemos dos juegos, <a href="http://chiapasgames.org:8080/multi-game">GENTE (PEOPLE) y Manantiales de la Sierra (Sierra Springs)</a>, 
+                    en nuestra plataforma.
+                </p>
+                <div class="separator"></div>
+                <h2>Servicios</h2>
+                <p>
+                    Ofrecemos una instancia <a href="http://chiapasgames.org:8888">JIRA</a> para el seguimiento de errores, funciones de programación y mejoras. 
+                    También una instancia <a href="http://chiapasgames.org:9999">JENKINS</a> para hacer construcciones basado en la línea principal, o  rama "maestra". 
+                    Por favor, ver estos en artefactos binarios.                
+                </p>
+                <div class="separator"></div>
+		        <h2>Antecedentes</h2>
                 <p> En este servidor hemos colocado juegos para computadora. Estos juegos fueron desarrollados gracias nuestra investigación  aún en curso en la 
                     cuenca del río El Tablón en la Reserva de la Biósfera La Sepultura (REBISE). La REBISE se localiza en la Sierra Madre de Chiapas y es 
                     considerada como Patrimonio de la Humanidad por la UNESCO. Con nuestros juegos para computadora actuales se implementaron juegos de mesa 
@@ -104,25 +123,11 @@ pop<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3
                         áreas naturales protegidas.                        
                     </li>
                 </ul>
-
-                <div class="separator"></div>
-                <h3>JUEGOS</h3>
-                <p>
-                    Actualmente, ofrecemos dos juegos, <a href="http://chiapasgames.org:8080/multi-game">GENTE (PEOPLE) y Manantiales de la Sierra (Sierra Springs)</a>, 
-                    en nuestra plataforma.
-                </p>
-                <div class="seperator"></div>
-                <h3>Servicios</h3>
-                <p>
-                    Ofrecemos una instancia <a href="http://chiapasgames.org:8888">JIRA</a> para el seguimiento de errores, funciones de programación y mejoras. 
-                    También una instancia <a href="http://chiapasgames.org:9999">JENKINS</a> para hacer construcciones basado en la línea principal, o  rama "maestra". 
-                    Por favor, ver estos en artefactos binarios.                
-                </p>
+	    </div>
             	<div id="footer" class="mesmis">
                 	<a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS" /></a>
             </div>
             <br/>
             <g:plusone annotation="inline"></g:plusone>
-        </div>
     </body>
 </html>

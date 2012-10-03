@@ -44,40 +44,31 @@
                 </div>
             </div>
             <div id="content">
-            <h2>Welcome Prospective Interns and Students!</h2>
-            <p>
-				This page contains a list of ideas for contributions to our open source 
-				project, "MultiGame".
-				All ideas should be developed under the Academic Free License (3.0) 
-				and successful implementations should be submitted to our <a href='http://www.github.com/ecosur-sistemas-complejos'>main project page</a>
-				on Github as pull requests, taken from our development branch, per the official "Fork and Pull Model.":
-			</p> 
-			<p>
-				For more detail on collaborative development at GitHub, please see their 
-				dedicated help section: <a href='http://help.github.com/send-pull-requests/'>GitHub Collaborative Development Model.</a>
-			</p>		
+            <h2>Bienvenido pasantes y estudiantes potenciales!</h2>
+
+<p>Esta página contiene una lista de ideas para las contribuciones a nuestro proyecto de código abierto, "MultiGame". Todas las ideas deben desarrollarse bajo la licencia académica gratuita (3,0) y las implementaciones de éxito debe ser presentado a <a href='http://www.github.com/ecosur-sistemas-complejos'>la página principal del proyecto</a> en Github como las solicitudes de extracción, tomados de nuestra rama de desarrollo, por el funcionario "Tenedor y Pull Modelo":</p>
+<p>Para más detalles sobre el desarrollo colaborativo en GitHub, consulte la sección de ayuda especializada: <a href='http://help.github.com/send-pull-requests/'>Modelo GitHub Desarrollo Colaborativo.</a>
+</p>
         	<div class="separator"></div>
             
-            <h2>Development Ideas</h2>
+            <h2>Ideas para Desarrollo de Software</h2>
             
             <ul>
-            	<li>Objective C iOS 5.1 client for Manantiales de La Sierra</li>
-                <li>REST API in JAX-RX (RestEASY) for shared gaming server (based on EJB interfaces)</li>
-                <li>REST integration with JMS (HornetQ) server on backend</li>
-                <li>Deeper incorporation of Drools Guvnor BRMS into current and coming games</li>
-                <li>Completion of the Maven Drools Guvnor Rest plugin project</li>
-            	<li>Complete conversion of Flex code from Halo to Spark</li>            
-            	<li>Expand code coverage in Engine module to 80%</li>
-            	<li>Expand code coverage in Games module to 80%</li>    
-            	<li>Implement suggestions to Engine module from our <a href='http://chiapasgames.org:9000/drilldown/violations/mx.ecosur:engine-module'>Sonar server</a></li>
-            	<li>Implement suggestions to Games module from our <a href='http://chiapasgames.org:9000/drilldown/violations/mx.ecosur:games-module'>Sonar server</a></li>
+            	<li>Objective-C iOS 5.1 cliente para Manantiales de La Sierra</li>
+                <li>API REST de JAX-RX (RestEASY) para el servidor de juego compartido (basado en interfaces EJB)</li>
+                <li>REST integración con JMS (HornetQ) servidor back-end
+                <li>Más profunda la incorporación de BRMS Drools guvnor en los juegos actuales y futuros</li>
+                <li>Finalización del proyecto Maven Drools plugin de Guvnor REST</li>
+            	<li>Ampliar la cobertura de código en el módulo del "Engine" al 80%</li>
+            	<li>Ampliar la cobertura de código en el módulo del "Games" al 80%</li>
+            	<li>Poner en práctica las sugerencias al módulo del "Engine" de nuestro servidor <a href='http://chiapasgames.org:9000/drilldown/violations/mx.ecosur:engine-module'>Sonar</a></li>
+            	<li>Poner en práctica las sugerencias al módulo del "Games" de nuestro servidor <a href='http://chiapasgames.org:9000/drilldown/violations/mx.ecosur:games-module'>Sonar</a></li>
             </ul>
-            <h2>Software Management (IT) Ideas</h2>
-	 
+	    <h2>Ideas para Manejar de Software</h2>
             <ul>
-                <li>Replication setup and maintenanace for mobile MySQL server (snapshots, conflict resolution)</li>
+                <li>La replicación de configuración y maintenanace para el servidor MySQL móvil ("snapshots", la resolución de conflictos)
             </ul>
-            </div>
+            </div>		
 	        <div id="footer" class="mesmis">
     	            <a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS"/></a>
             	</div>

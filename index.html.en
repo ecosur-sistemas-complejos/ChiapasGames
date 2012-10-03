@@ -53,7 +53,25 @@
                     here.
                 </p>
                 <div class="separator"></div>
-                <h2>Background</h2>
+                <h2>Privacy</h2>
+                <p>
+                    For information on your personal privacy while interacting with this website, please see our privacy
+                    policy here: <a href="privacy.html.en">Privacy Policy</a>.
+                </p>
+		        <div class="separator"></div>
+                <h2>Games</h2>
+                <p>
+                    Currently, we host two games, <a href='http://chiapasgames.org:8080/multi-game'>GENTE (PEOPLE) and SIERRA SPRINGS (MANANTIALES)</a>, with our rules engine based
+                    platform.
+                </p>
+                <div class="separator"></div>
+                <h2>Services</h2>
+                <p>
+                    We host a <a href="http://chiapasgames.org:8888">JIRA</a> instance and <a href="http://chiapasgames.org:9999">JENKINS</a>
+                    instance for tracking bugs and executing our continuous integration (CI) builds.
+                </p>
+                <div class="separator"></div>
+        		<h2>Background</h2>
                 <p> On this server, we have placed computer games developed through our ongoing research in the Tablon watershed
                     in the La Sepultura Reserve of the Sierra Madre de Chiapas, a UNESCO world heritage site. Our current
                     computer games implement board games participatively created by researchers and stakeholders in that
@@ -102,25 +120,11 @@
                         strengthens local capacities for natural resource management in protected areas.
                     </li>
                 </ul>
-
-                <div class="separator"></div>
-                <h3>GAMES</h3>
-                <p>
-                    Currently, we host two games, <a href='http://chiapasgames.org:8080/multi-game'>GENTE (PEOPLE) and SIERRA SPRINGS (MANANTIALES)</a>, with our rules engine based
-                    platform.
-
-                </p>
-                <div class="seperator"></div>
-                <h3>Services</h3>
-                <p>
-                    We host a <a href="http://chiapasgames.org:8888">JIRA</a> instance and <a href="http://chiapasgames.org:9999">JENKINS</a>
-                    instance for tracking bugs and executing our continuous integration (CI) builds.
-                </p>
-	        <div id="footer" class="mesmis">
+	  	</div>
+		<div id="footer" class="mesmis">
     	            <a href="http://mesmis.gira.org.mx/"><img src="http://mesmis.gira.org.mx/images/logo.png" alt="MESMIS"/></a>
             	</div>
 		<br/>
 		<g:plusone annotation="inline"></g:plusone>
-        </div>
     </body>
 </html>
