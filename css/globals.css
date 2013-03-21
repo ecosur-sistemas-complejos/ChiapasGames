@@ -42,23 +42,7 @@ a:hover{
 }
 
 #login {
-    height: 100px;
-}
-
-#login form{
-    float: left;
-    width: 257px;
-    background-color: #f4f4f4;
-    margin-bottom: 5px;
-}
-
-fieldset{
-    border: 0px;
-    padding: 20px;
-}
-
-fieldset div{
-    padding: 2px 0px;
+    margin: 2em;
 }
 
 .separator{
@@ -68,16 +52,6 @@ fieldset div{
     margin: 20px 0px;
 }
 
-fieldset label{
-    float: left;
-    display: block;
-    width: 80px;
-}
-
-fieldset .field input{
-    border: 1px solid #666;
-    width: 150px;
-}
 
 ul li{
     list-style: square;
