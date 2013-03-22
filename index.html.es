@@ -35,10 +35,12 @@
                 <p>
                     Este es el servidor de red para el proyecto de "computer assisted participatory modeling" de El Colegio de la Frontera Sur (ECOSUR)
                      unidad San Cristóbal de las Casas (SCLC), Chiapas. Somos participantes activos en el 
-                    <a href="http://mesmis.gira.org.mx/en/static/about_us">proyecto MESMIS</a> (Marco para la Evaluación de Sistemas de Manejo de Recursos 
+                   <a href="http://mesmis.gira.org.mx/en/static/about_us">proyecto MESMIS</a> (Marco para la Evaluación de Sistemas de Manejo de Recursos
                     Naturales Incorporando Indicadores de Sustentabilidad) y esperamos que las ideas, valores y procesos que este proyecto llevará a cabo tomen 
                     en cuenta nuestras contribuciones aquí.
                 </p>
+
+
                 <div class="separator"></div>
                 <h2>Privacy</h2>
                 <p>
