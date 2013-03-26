@@ -8,8 +8,10 @@
         <link href="img/favicon.ico" type="image/x-icon" rel="icon" />
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="css/globals.css" />
+        <link rel="stylesheet" type="text/css" href="css/introjs.min.css" />
         <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="js/intro.min.js" type="text/javascript"></script>
     </head>
     <body>
         <div id="main">
@@ -31,7 +33,7 @@
                 </div>
             </div>
             <div id="content">
-                <h2>Bienvenidos</h2>
+                <h2 data-step="1" data-intro="Bienvenidos a ChiapasGames!">Bienvenidos</h2>
                 <p>
                     Este es el servidor de red para el proyecto de "computer assisted participatory modeling" de El Colegio de la Frontera Sur (ECOSUR)
                      unidad San Cristóbal de las Casas (SCLC), Chiapas. Somos participantes activos en el 
@@ -39,26 +41,29 @@
                     Naturales Incorporando Indicadores de Sustentabilidad) y esperamos que las ideas, valores y procesos que este proyecto llevará a cabo tomen 
                     en cuenta nuestras contribuciones aquí.
                 </p>
-
-
                 <div class="separator"></div>
-                <h2>Privacy</h2>
                 <p>
+                    Si necesita ayuda para navegar el sitio, por favor, empuja la siguiente botón:
+                </p>
+                <button class="btn btn-large btn-primary" type="button" href="javascript:void(0);" onclick="javascript:introJs().start();">Ayuda!</button>
+                <div class="separator"></div>
+                <h2>Privacidad</h2>
+                <p data-step="2" data-intro="Queremos que le comprende nuestra política de privacidad!" data-position="top">
                     Por infórmacion correspondiente a su privacidad personal, por favor ver nuestra pagína de privacidad.
                     <a href="privacy.html.en">Privacy Policy</a>.
                 </p>
                 <div class="separator"></div>
-                <h2>Juegos</h2>
-                <p>
-                    Actualmente, ofrecemos dos juegos, <a href="http://chiapasgames.org:8080/multi-game">GENTE (PEOPLE) y Manantiales de la Sierra (Sierra Springs)</a>, 
+                <h2 data-step="7" data-intro="Disfruta la!">Juegos</h2>
+                <p data-step="3" data-postion="right" data-intro="Nuestros juegos son disponible en Flash.">
+                    Actualmente, ofrecemos dos juegos, <a data-step="4" data-postion="top" data-intro="Haz clic para jugar!" href="http://chiapasgames.org:8080/multi-game">GENTE (PEOPLE) y Manantiales de la Sierra (Sierra Springs)</a>,
                     en nuestra plataforma.
                 </p>
                 <div class="separator"></div>
                 <h2>Servicios</h2>
-                <p>
-                    Ofrecemos una instancia <a href="http://chiapasgames.org:8888">JIRA</a> para el seguimiento de errores, funciones de programación y mejoras. 
-                    También una instancia <a href="http://chiapasgames.org:9999">JENKINS</a> para hacer construcciones basado en la línea principal, o  rama "maestra". 
-                    Por favor, ver estos en artefactos binarios.                
+                <p data-step="5" data-intro="Si encuentra algunas fallas, por favor, informarnos sobre nuestra pagina en la GitHub.">
+                    Ofrecemos una instancia <a href="http://chiapasgames.org:9999">JENKINS</a> para hacer construcciones basado en la línea principal, o  rama "maestra".
+                    Si detecta alguno falla, por favor, escribir un descripcion sobre nuestro bitacora de fallas a Github:
+                    <a data-step="6" data-intro="Haz clic para mandarnos una falla." href="https://github.com/ecosur-sistemas-complejos/MultiGame/issues">https://github.com/ecosur-sistemas-complejos/MultiGame/issues</a>.
                 </p>
                 <div class="separator"></div>
 		        <h2>Antecedentes</h2>
@@ -123,7 +128,7 @@
                 _gaq.push(['_trackPageview']);
                 (function() {
                     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    ga.src = ('https:' == document.ulocation.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                 })();
 
@@ -133,6 +138,5 @@
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
                 })();
             </script>
-            <g:plusone annotation="inline"></g:plusone>
     </body>
 </html>
